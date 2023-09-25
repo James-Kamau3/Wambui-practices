@@ -1,19 +1,53 @@
 {
-  "posts": [
+  "practice": [
     {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
+        "id": "1",
+      "name": "Criminal Law",
+      "description": "We specializing in criminal law represent individuals or entities facing criminal charges.",
+      "image_url": "https://static.thenounproject.com/png/5079097-200.png"
+    },
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+        "id": "2",
+      "name": "Family Law",
+      "description": "We handle matters related to family relationships, such as divorce, child custody.",
+      "image_url": "https://static.thenounproject.com/png/4772382-200.png"
+    },
+    {
+        "id": "3",
+      "name": "Commercial Law",
+      "description": "We deal with business-related legal issues, including contract disputes.",
+      "image_url": "https://static.thenounproject.com/png/3458606-200.png"
+    },
+    {
+        "id": "4",
+      "name": "Real Estate Law",
+      "description": "We assist clients with property-related matters, such as property transactions.",
+      "image_url": "https://static.thenounproject.com/png/4024899-200.png"
+    },
+    {
+        "id": "5",
+      "name": "Employment Law",
+      "description": "We focus on matters concerning the employer-employee relationship.",
+      "image_url": "https://static.thenounproject.com/png/5604797-200.png"
+    },
+    {
+        "id": "6",
+      "name": "Constitutional Law",
+      "description": "We deal with issues related to constitutional rights and the interpretation.",
+      "image_url": "https://static.thenounproject.com/png/4249328-200.png"
+    },
+
+    {
+        "id": "7",
+      "name": "Banking and Finance Law",
+      "description": "We advise clients on matters related to financial transactions.",
+      "image_url": "https://static.thenounproject.com/png/3371495-200.png"
+    },
+    {
+        "id": "8",
+      "name": "Tax Law",
+      "description": "We specialize in matters pertaining to taxation. They provide guidance on tax planning.",
+      "image_url": "https://static.thenounproject.com/png/3996669-200.png"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
