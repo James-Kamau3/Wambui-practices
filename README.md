@@ -1,1 +1,0 @@
-# Wambui-practices
